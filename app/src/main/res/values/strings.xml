@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WifiTracker</string>
+    <string name="maps_key">AIzaSyB923clr4Wm3T4Nv9UZURh6tz7ceSWl9qE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
