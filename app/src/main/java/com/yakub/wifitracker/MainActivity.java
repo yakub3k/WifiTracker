@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity
     Toolbar toolbar;
 
     @BindView(R.id.fab)
-    FloatingActionButton rabButton;
+    FloatingActionButton fabButton;
 
     MapFragment mapFragment;
 
